@@ -14,6 +14,9 @@ export default {
                     100: '#f4f4f4', // Light background
                     200: '#e6e6e6',
                 }
+            },
+            fontFamily: {
+                sans: ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif'],
             }
         },
     },
